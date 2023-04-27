@@ -7,3 +7,7 @@ Día 1:
   
 Día 2:
   Trabajo sobre bucles, programación imperativa, creación de funciones y filtros
+  
+  
+Día 3:
+  Introducción a Spark y primer RDD
